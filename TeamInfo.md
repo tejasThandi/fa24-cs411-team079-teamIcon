@@ -1,4 +1,4 @@
-# team006-Howdy
+# team079-teamIcon
 
 ## Basic Information
 
